@@ -1,0 +1,7 @@
+"./Driver/Src/stm32f446xx_gpio_driver.o"
+"./Driver/Src/stm32f446xx_i2c_driver.o"
+"./Driver/Src/stm32f446xx_spi _driver.o"
+"./Src/Led_ButtonWithInterrupt.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f446retx.o"
